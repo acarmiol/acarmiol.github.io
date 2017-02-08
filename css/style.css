@@ -104,6 +104,10 @@ img {
   border: 0;
 }
 
+.recent{
+  width: 110px;
+}
+
 svg:not(:root) {
   overflow: hidden;
 }
